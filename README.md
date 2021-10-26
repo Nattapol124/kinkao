@@ -1,4 +1,4 @@
-# LEARN-SE-kinkao
+#kinkao
 springframework Frontend
 
 run project in Intellij IDEA
